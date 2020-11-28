@@ -1,8 +1,10 @@
 created file1
 crated cvbnm
-new line added
-<<<<<<< HEAD
+new line adde
 sreekanth
-=======
 new one
->>>>>>> 9d891d349911db443c8c2472d93a5ec7d1d7a4bc
+<<<<<<< HEAD
+kamatham
+=======
+Praveen
+>>>>>>> aa7313fa7226ec20b96c2411b417b4a73a5f779e
