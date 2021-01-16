@@ -1,0 +1,9 @@
+---
+ - hosts: all
+   tasks:
+   - name: reg variables
+     shell: cat /etc/passwd | grep -i ansible
+     register: out
+   - name: printing reg variable
+     debug:
+       msg: "{{ out.stdout }}"
